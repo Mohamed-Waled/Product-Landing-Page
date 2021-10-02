@@ -10,7 +10,6 @@ body {
     background-color: #eeeeee;
     font-family: 'Lato', sans-serif;
     width: 100%;
-    overflow: hidden;
 }
 
 #header {
@@ -277,6 +276,8 @@ footer {
 
     .footer {
         flex-flow: row;
-        margin-right: 12rem;
+        margin-right: -6rem;
+        justify-content: center;
+        width: 50%;
     }
 }
