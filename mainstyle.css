@@ -34,6 +34,7 @@ ul {
     display: flex;
     justify-content: space-between;
     margin-left: 35rem;
+    margin-right: 3rem;
 }
 
 a {
@@ -243,16 +244,15 @@ footer {
 
 @media (max-width: 576px) {
     #header {
-        height: 8rem;
-        position: fixed;
+        height: auto;
         display: flex;
-        justify-content: space-between;
         align-items: center;
         top: 0;
     }
 
     .starting {
         margin-top: 9rem;
+        text-align: center;
     }
 
     ul {
@@ -263,10 +263,19 @@ footer {
         align-items: center;
     }
 
+    .pri {
+        width: 100%;
+    }
+
     footer {
-        width: 70%;
-        height: 6rem;;
+        width: 80%;
+        height: 6rem;
         align-items: center;
         justify-content: center;
+    }
+
+    .footer {
+        flex-flow: row;
+        margin-right: 12rem;
     }
 }
