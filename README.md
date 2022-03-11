@@ -1,12 +1,37 @@
-# Product-Landing-Page
-A Product Landing Page Project For FCC Responsive Web Design Courses
+# FreeCodeCamp - Responsive Web Design Projects - Build a Product Landing Page
 
-## The languages Used
-HTML
-Css
-Useing Visual Studio Code
+This is a solution to the [Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) 
 
-## Project Files
-HTML File index.HTML Contains 148 Lines
-CSS File Contains styles.css Contains 281 Lines
-README.md File Contains Information About The Project Contains 12 Lines
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### Screenshot
+
+![]()
+![]()
+
+### Links
+
+- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/PojVydV)
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Product-Landing-Page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Visual Studio Code
+
+## Author
+
+- Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
