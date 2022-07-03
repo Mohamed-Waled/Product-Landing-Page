@@ -20,7 +20,6 @@ This is a solution to the [Build a Product Landing Page](https://www.freecodecam
 
 ### Links
 
-- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/PojVydV)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Product-Landing-Page/)
 
 ## My process
