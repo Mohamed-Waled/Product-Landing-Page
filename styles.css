@@ -124,7 +124,7 @@ body {
 }
 
 #pricing {
-  width: 1000px;
+  width: 60%;
   height: 330px;
   margin: 2.5rem auto;
   display: flex;
@@ -177,7 +177,7 @@ button:hover {
 }
 
 footer {
-  width: 1020px;
+  width: 62%;
   height: 75px;
   background-color: #ddd;
   margin: auto;
@@ -270,14 +270,22 @@ footer .copyright {
   }
 
   #pricing {
-    width: 750px;
+    width: 98%;
     height: 990px;
     flex-direction: column;
   }
 
   .price {
     margin: auto;
-    width: calc((100% / 3) - 20);
+    width: 70%;
+  }
+  
+  .price h3 {
+    font-size: 16px;
+  }
+
+  .price p {
+    font-size: 14px;
   }
 
   footer {
@@ -359,7 +367,7 @@ footer .copyright {
   }
 
   #pricing {
-    width: 280px;
+    width: 98%;
     height: 990px;
     flex-direction: column;
   }
